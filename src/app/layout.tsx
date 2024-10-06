@@ -7,7 +7,7 @@ import Footer from "./component/layout/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Panaverse clone",
+  title: "Panaverse",
   description: "Generated Sudais Chohan",
 };
 

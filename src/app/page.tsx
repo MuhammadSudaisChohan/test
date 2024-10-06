@@ -3,6 +3,8 @@ import Hero from "./component/widgets/Hero"
 import ProgramOutcome from "./component/widgets/ProgramOutcome"
 import Specialized from "./component/widgets/Specialized"
 
+
+    
 const page = () => {
   return (
     <main>

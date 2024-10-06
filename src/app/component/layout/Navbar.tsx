@@ -14,8 +14,8 @@ const Navbar = () => {
                  {/* Navigation bar */}
 
                  <ul className="flex space-x-8">
-                    <Link href={"/"}><li className="text-lg">Home</li></Link> 
-                     <Link href={"/courses"}><li className="text-lg">Courses</li></Link>
+                    <Link href={"/"}><li className="text-lg mr-5">Home</li></Link> 
+
                  </ul>
              </div>
              </Wrapper>
